@@ -1,16 +1,32 @@
 # binary_clock
 
-Flutter Binary Clock application.
 
-## Getting Started
+<p> Flutter Binary Clock application. </p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Language & Tools
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Librarys
+<p> splashscreen: ^1.3.5 </p>
+ <p> age: ^0.0.1 </p>
+<p>  flutter_launcher_icons: ^0.9.0 </p> 
+
+
+
+
+
+
+
+## ScreenShots
+
+[splash]: https://github.com/farhansadikgalib/raw/blob/master/Age%20Calculator/splash.png
+[dashboard]: https://github.com/farhansadikgalib/raw/blob/master/Age%20Calculator/dashboard.png
+
+|    Splash screen      |    Dashboard |
+| ------------- |:-------------: |
+|![alt text][splash]  | ![alt text][dashboard] |
+
