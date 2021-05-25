@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'file:///G:/Flutter%20Projects/1%20page%20project/binary%20%20clock/binary_clock/lib/Model/ClockColumn.dart';
+import 'package:binary_clock/Model/ClockColumn.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';

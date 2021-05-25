@@ -1,4 +1,4 @@
-import 'file:///G:/Flutter%20Projects/1%20page%20project/binary%20%20clock/binary_clock/lib/Screen/ClockScreen.dart';
+import 'package:binary_clock/Screen/Splash%20Screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ClockScreen(),
+      home: Splash_Screen(),
     );
   }
 }
