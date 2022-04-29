@@ -22,7 +22,7 @@ class ClockColumn extends StatelessWidget {
           Container(
             child: Text(
               title,
-              style: Theme.of(context).textTheme.display2,
+              // style: Theme.of(context).textTheme.display2,
             ),
           )
         ],

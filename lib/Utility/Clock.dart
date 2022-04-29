@@ -63,9 +63,10 @@ class _ClockState extends State<Clock> {
                 // Columns for the clock
                 ClockColumn(
                   binaryInteger: _binaryTime.hourTens,
-                  title: 'H',
+                  title:'H',
                   color: Colors.blue,
                   rows: 2,
+
                 ),
                 ClockColumn(
                   binaryInteger: _binaryTime.hourOnes,
